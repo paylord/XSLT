@@ -1,0 +1,34 @@
+.RiskMatrix
+{
+	border-color:white;
+	text-align:center;
+	width: 100%;
+	min-height:100%
+}
+.RiskMatrixHeading
+{
+	background-color:#235493;
+	color:white
+}
+.RiskMatrixRowHeader
+{
+	background-color:#235493;
+	color:white;
+	text-align:left
+}
+.RiskMatrixLow
+{
+	background-color:#87B3FF
+}
+.RiskMatrixModerate
+{
+	background-color:#99FF77
+}
+.RiskMatrixHigh
+{
+	background-color:#FFE270
+}
+.RiskMatrixCritical
+{
+	background-color:#FF918C
+}
